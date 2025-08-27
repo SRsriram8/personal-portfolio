@@ -44,7 +44,7 @@ personal-portfolio/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/personal-portfolio.git
+git clone https://github.com/SRsriram8/personal-portfolio.git
 ```
 
 2. Navigate to the project directory:
@@ -98,12 +98,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Sriram**
-- Portfolio: [Link to your portfolio]
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
-
-## 🙏 Acknowledgments
-
-- Images from [Source]
-- Icons from [Source]
-- Inspiration from [Source]
+- Portfolio: [https://srsriram8.github.io/personal-portfolio/]
+- LinkedIn: [www.linkedin.com/in/sriram-s-2358962bb]
+- GitHub: [SRsriram8]
